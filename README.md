@@ -30,16 +30,24 @@ Description: The summary description
 
 **Insights**
 
-Content Distribution: Movies make up approximately 70% of Netflix's content, while TV shows account for 30%.
-Top Directors: Rajiv Chilaka is the leading director on Netflix, followed by Jan Sutar.
-Release Year Trends: The distribution of release years is right-skewed, indicating that most content has been released in the past decade.
-Peak Release Year: The highest number of releases occurred in 2018.
-Content Rating: The majority of the content is rated TV-MA, suggesting a focus on mature audiences.
+1. Content Distribution: Movies make up approximately 70% of Netflix's content, while TV shows account for 30%.
+
+2. Top Directors: Rajiv Chilaka is the leading director on Netflix, followed by Jan Sutar.
+
+3. Release Year Trends: The distribution of release years is right-skewed, indicating that most content has been released in the past decade.
+
+4. Peak Release Year: The highest number of releases occurred in 2018.
+
+5. Content Rating: The majority of the content is rated TV-MA, suggesting a focus on mature audiences.
 
 **Recommendations**
 
-Target Audience: Focus on producing more content for mature and teenage audiences, given the high prevalence of TV-MA ratings.
-Content Strategy: With the significant growth in movies, consider increasing the production of TV shows to diversify the content offering.
-Subscription Promotions: Implement genre-based subscription pop-ups to attract and retain subscribers.
-Director Engagement: Encourage top directors to create more seasons or parts of their popular movies/TV shows to leverage their success.
-Flexible Subscription Models: Offer daily subscriptions at a lower price to appeal to working professionals who may prefer to enjoy Netflix content on weekends.
+1. Target Audience: Focus on producing more content for mature and teenage audiences, given the high prevalence of TV-MA ratings.
+
+2. Content Strategy: With the significant growth in movies, consider increasing the production of TV shows to diversify the content offering.
+
+3. Subscription Promotions: Implement genre-based subscription pop-ups to attract and retain subscribers.
+
+4. Director Engagement: Encourage top directors to create more seasons or parts of their popular movies/TV shows to leverage their success.
+
+5. Flexible Subscription Models: Offer daily subscriptions at a lower price to appeal to working professionals who may prefer to enjoy Netflix content on weekends.
