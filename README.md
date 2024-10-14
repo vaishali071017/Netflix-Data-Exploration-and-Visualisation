@@ -12,16 +12,27 @@ Analyze the data and generate insights that could help Netflix in deciding which
 **Features and Descriptions:**
 
 Show_id: Unique ID for every Movie / Tv Show
+
 Type: Identifier - A Movie or TV Show
+
 Title: Title of the Movie / Tv Show
+
 Director: Director of the Movie
+
 Cast: Actors involved in the movie/show
+
 Country: Country where the movie/show was produced
+
 Date_added: Date it was added on Netflix
+
 Release_year: Actual Release year of the movie/show
+
 Rating: TV Rating of the movie/show
+
 Duration: Total Duration - in minutes or number of seasons
+
 Listed_in: Genre
+
 Description: The summary description
 
 🙇‍♀️ To view the code please click [here](https://github.com/vaishali071017/Netflix-Data-Exploration-and-Visualisation/blob/main/NETFLIX_code.ipynb)
